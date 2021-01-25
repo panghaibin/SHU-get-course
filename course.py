@@ -4,9 +4,9 @@ import time
 import sys
 
 
-CourseId = "00853204"
-TeacherId="1351"
-cookies="ASP.NET_SessionId=un0240dcdkbiw35hux4jiox"
+CourseId = "00853204"                                                          #课程号
+TeacherId="1351"                                                               #教师号
+cookies="ASP.NET_SessionId=un0240dcdkbiw35hux4jiox"                            #cookie
 timeDelay = 0
 
 
